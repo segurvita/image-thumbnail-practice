@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/segurvita/image-thumbnail-practice/issues"
   },
-  "homepage": "https://github.com/segurvita/image-thumbnail-practice#readme"
+  "homepage": "https://github.com/segurvita/image-thumbnail-practice#readme",
+  "dependencies": {
+    "image-thumbnail": "^1.0.6"
+  }
 }
