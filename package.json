@@ -1,22 +1,21 @@
 {
   "name": "image-thumbnail-practice",
   "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "segur",
+  "bugs": {
+    "url": "https://github.com/segurvita/image-thumbnail-practice/issues"
   },
+  "dependencies": {
+    "image-thumbnail": "^1.0.6"
+  },
+  "homepage": "https://github.com/segurvita/image-thumbnail-practice#readme",
+  "license": "Apache-2.0",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/segurvita/image-thumbnail-practice.git"
   },
-  "author": "segur",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/segurvita/image-thumbnail-practice/issues"
-  },
-  "homepage": "https://github.com/segurvita/image-thumbnail-practice#readme",
-  "dependencies": {
-    "image-thumbnail": "^1.0.6"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
