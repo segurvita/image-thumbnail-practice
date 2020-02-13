@@ -6,7 +6,8 @@
     "url": "https://github.com/segurvita/image-thumbnail-practice/issues"
   },
   "dependencies": {
-    "image-thumbnail": "^1.0.6"
+    "image-thumbnail": "^1.0.6",
+    "jest": "^25.1.0"
   },
   "homepage": "https://github.com/segurvita/image-thumbnail-practice#readme",
   "license": "Apache-2.0",
@@ -16,6 +17,6 @@
     "url": "git+https://github.com/segurvita/image-thumbnail-practice.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   }
 }
